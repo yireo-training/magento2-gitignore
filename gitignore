@@ -88,8 +88,12 @@ atlassian*
 /generated/*
 !/generated/.htaccess
 
-dev/
-!dev/tools/grunt/configs/themes.js
+/dev/*
+!/dev/tools
+/dev/tools/*
+!/dev/tools/grunt
+/dev/tools/grunt/configs/*
+!/dev/tools/grunt/configs/themes.js
 
 /.travis.yml
 /.user.ini
