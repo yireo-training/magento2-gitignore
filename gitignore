@@ -91,19 +91,19 @@ atlassian*
 dev/
 !dev/tools/grunt/configs/themes.js
 
-.travis.yml
-.user.ini
-.htaccess
-.htaccess.sample
+/.travis.yml
+/.user.ini
+/.htaccess
+/.htaccess.sample
 
-CHANGELOG.md
-CONTRIBUTING.md
-COPYING.txt
-Gruntfile.js.sample
-ISSUE_TEMPLATE.md
-LICENSE.txt
-LICENSE_AFL.txt
-nginx.conf.sample
-package.json.sample
-php.ini.sample
-deploy.log
+/CHANGELOG.md
+/CONTRIBUTING.md
+/COPYING.txt
+/Gruntfile.js.sample
+/ISSUE_TEMPLATE.md
+/LICENSE.txt
+/LICENSE_AFL.txt
+/nginx.conf.sample
+/package.json.sample
+/php.ini.sample
+/deploy.log
