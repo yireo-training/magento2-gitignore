@@ -13,6 +13,7 @@ atlassian*
 /node_modules
 /.grunt
 /.php_cs
+/.php_cs.dist
 /.php_cs.cache
 .DS_Store
 
@@ -94,13 +95,15 @@ atlassian*
 !/dev/tools/grunt
 /dev/tools/grunt/configs/*
 !/dev/tools/grunt/configs/themes.js
+/grunt-config.json.sample
 
-/.travis.yml
+/.travis.yml.sample
 /.user.ini
 /.htaccess
 /.htaccess.sample
 
 /CHANGELOG.md
+/SECURITY.md
 /CONTRIBUTING.md
 /COPYING.txt
 /Gruntfile.js.sample
